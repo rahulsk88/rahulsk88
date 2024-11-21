@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Visit my personal website here: [https://rahulsk88.github.io/](https://rahulsk88.github.io/)
+<!-- Visit my personal website here: [https://rahulsk88.github.io/](https://rahulsk88.github.io/)
 
 [![Visit my website](https://img.shields.io/badge/Visit-My_Website-blue?style=for-the-badge)](https://rahulsk88.github.io/)
+-->
